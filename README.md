@@ -1,1 +1,1 @@
-# Yeboah-Development
+# JavaScript Short Challenges
